@@ -1,0 +1,16 @@
+{
+  "name": "zenvia-test",
+  "version": "0.0.1",
+  "description": "Teste do processo seletivo da Zenvia para desenvolvedor front-end",
+  "author": "Fernando Dalpiaz",
+  "email": "fmdalpiaz@gmail.com",
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/fmdalpiaz/zenvia-test"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1"
+  }
+}
