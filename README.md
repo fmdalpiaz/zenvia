@@ -17,6 +17,6 @@ Para tal, foi criado um módulo utilizando a linguagem _JavaScript_.
 4. o módulo disponibiliza outras 4 funções auxiliares:
     * `romanModule.isEmpty(x)` que verifica se o parâmetro passado está vazio
     * `romanModule.isString(x)` para verificar se o parâmetro passado é do tipo string
-    * `romanModule.hasOnlyRomamChars(x)` verifica se o parâmetro passado contém apenas caracteres de números romanos
+    * `romanModule.hasOnlyRomanChars(x)` verifica se o parâmetro passado contém apenas caracteres de números romanos
     * `romanModule.isNaturalBiggerThanZero(x)` verifica se o parâmetro passado é um número natural maior que 0
 
